@@ -1,0 +1,13 @@
+# Helicopter Android Game
+
+First android game that I've made in Android Studio for fun. Followed a couple of different youtube tutorials to get this one running
+and borrowed the missile and explosive sprite resources from one of the tuts. 
+
+## Screenshots
+
+![Alt text](http://i65.tinypic.com/biv7k9.jpg "Heli Screen 1")
+![Alt text](http://i67.tinypic.com/e9ujuu.png "Heli Screen 2")
+![Alt text](http://i64.tinypic.com/mw8fpg.png "Heli Screen 3")
+
+## Download .apk
+......
